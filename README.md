@@ -1,25 +1,18 @@
-## Sergey Klevets
+### Sergey Klevets
 
 You can see [on GitHub](https://github.com/Avksv/Avksv.github.io/edit/master/README.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##About me
+I worked for 10 years as an engineer and over 4 years as sql programmer and database administrator
 
-### Markdown
+## Skills
+SQL,  Oracle, PL/SQL, TSQL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Hobbis
+I have many different interests but currently my hobby is my family and children
 
---```markdown
-Syntax highlighted code block
+```markdown
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
